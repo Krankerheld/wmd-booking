@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8" />
-	<title>FMK Buchungssystem - Startseite</title>
+	<title>Veranstaltungsplaner FMK Group - Startseite</title>
 	<link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
 	<header>
-		<h1>FMK Buchungssystem</h1>
+		<h1>Veranstaltungsplaner FMK Group</h1>
 	</header>
 	<nav></nav>
 	<section></section>
