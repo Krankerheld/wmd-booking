@@ -38,7 +38,8 @@ Was können Besucher?
 
 - Veranstaltung lesen
 - Einloggen (HTTP-Basic, explizit keine benutzerverwaltung! ggf. sogar dass man sich vor der benutzung generell anmelden muss!)
-- (Registrieren) im ersten schritt nicht
+- (Registrieren) im ersten schritt nicht 
+- -> am besten doch dann, dass man nur nach Eingabe von einem Unternehmens Account an den Planer kommt. Quasi direkt ne Abfrage. Wie oben schon geschrieben. Evtl dann einen "User" und einen "Admin" anlegen oder?
   
 
 ## Registrierte User
